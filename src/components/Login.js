@@ -110,7 +110,6 @@ const LogIn = () => {
   return (
     <>
       <Grid container centered>
-        {/* <Grid.Column computer={4} tablet={2} mobile={1}></Grid.Column> */}
         <Grid.Column computer={8} tablet={12} mobile={14} textAlign={"left"}>
           <h1 className="text-align-center">Rapptr Labs</h1>
 
